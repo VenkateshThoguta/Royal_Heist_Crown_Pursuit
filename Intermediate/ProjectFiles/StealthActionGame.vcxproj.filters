@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\StealthActionGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{BF142760-300C-4014-A5EC-B5CF90F155ED}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\StealthActionGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\StealthActionGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\AdvancedGlassPack414.png" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{A9E05B95-172E-4296-A861-C77D9DE63AC5}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\StealthActionGame">
+      <UniqueIdentifier>{92760F8D-A2CC-4E65-87FC-10E02E6B392B}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\StealthActionGame\StealthAction.cpp">
+      <Filter>Source\StealthActionGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StealthActionGame\StealthAction.h">
+      <Filter>Source\StealthActionGame</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\StealthActionGame\StealthActionGame.Build.cs">
+      <Filter>Source\StealthActionGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\StealthActionGame\StealthActionGame.cpp">
+      <Filter>Source\StealthActionGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StealthActionGame\StealthActionGame.h">
+      <Filter>Source\StealthActionGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StealthActionGame\StealthActionGameCharacter.cpp">
+      <Filter>Source\StealthActionGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StealthActionGame\StealthActionGameCharacter.h">
+      <Filter>Source\StealthActionGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\StealthActionGame\StealthActionGameGameMode.cpp">
+      <Filter>Source\StealthActionGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\StealthActionGame\StealthActionGameGameMode.h">
+      <Filter>Source\StealthActionGame</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
