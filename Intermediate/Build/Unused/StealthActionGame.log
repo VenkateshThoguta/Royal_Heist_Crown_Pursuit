@@ -1,0 +1,8 @@
+﻿  Creating makefile for StealthActionGameEditor (no existing makefile)
+E:\StealthActionGame\Plugins\MysqlDBUnrealengine4.26-main\Source\MySQLConnectorUE4Plugin\MySQLConnectorUE4Plugin.Build.cs : warning : Referenced directory 'C:\Program Files\Epic Games\UE_4.27\Engine\Source\MySQLConnectorPlugin4UE4\Public' does not exist.
+E:\StealthActionGame\Plugins\MysqlDBUnrealengine4.26-main\Source\MySQLConnectorUE4Plugin\MySQLConnectorUE4Plugin.Build.cs : warning : Referenced directory 'E:\StealthActionGame\Plugins\MysqlDBUnrealengine4.26-main\Source\MySQLConnectorPlugin4UE4\Private' does not exist.
+  Parsing headers for StealthActionGameEditor
+    Running UnrealHeaderTool "E:\StealthActionGame\StealthActionGame.uproject" "E:\StealthActionGame\Intermediate\Build\Win64\StealthActionGameEditor\Development\StealthActionGameEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\SAI MANIKANTA\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  LogInit: Display: Loading text-based GConfig....
+EXEC : error : Couldn't find parent type for 'MyStealthActionGameCharacter2' named 'AStealthActionGameCharacter' in current module (Package: /Script/StealthActionGame) or any other module parsed so far.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(45,5): error MSB3073: The command ""C:\Program Files\Epic Games\UE_4.27\Engine\Build\BatchFiles\Build.bat" StealthActionGameEditor Win64 Development -Project="E:\StealthActionGame\StealthActionGame.uproject" -WaitMutex -FromMsBuild" exited with code 6.
